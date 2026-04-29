@@ -2,13 +2,17 @@
 
 Sou um desenvolvedor focado em criar aplicações web modernas, eficientes e com uma ótima experiência de usuário. 
 
+## 📝 Resumo
+
+Tenho 20 anos e sou formado no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC Itaquaquecetuba e em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba e mais recentemente iniciei minha graduação em Engenharia de Software pela INFNET, modalidade EAD (3° semestre de 8). Desde cedo, sou movido pela paixão por tecnologia, com foco especial em programação e, principalmente, no desenvolvimento Front-end.
+
 ## 👨‍💻 Um pouco sobre mim
 
-- 🚀 Construindo projetos principalmente com o ecossistema **React**, utilizando ferramentas como **Vite**, **Tailwind CSS** e **Context API**.
-- 📚 Atualmente, estou focado em me aprofundar em gerenciamento de estado (como **Zustand** e **Jotai**) e bibliotecas de componentes avançadas (**shadcn UI**).
-- 🇬🇧 Em uma jornada intensiva e imersiva para alcançar a fluência avançada no inglês este ano.
-- 🎬 Fora do código, sou um grande cinéfilo. Gosto muito de analisar filmes que exploram a temática da obsessão e sou fã do trabalho de diretores como Quentin Tarantino e Damien Chazelle.
-- ♟️ Nas horas vagas, curto a mecânica e a cultura do xadrez, além de algumas partidas de Valorant.
+- 🎓 Formado no Ensino Médio Técnico em **ADS** e no tecnólogo em **GTI**. Atualmente cursando bacharelado em **Engenharia de Software** (EAD, 3° de 8 semestres).
+- 🚀 Construindo projetos principalmente com o ecossistema **React**.
+- 📚 Atualmente, estou focado em me aprofundar em gerenciamento de estado (como **Zustand** e **Jotai**) e bibliotecas de componentes (como **shadcn UI** e **Material UI**).
+- 🇬🇧 Em uma jornada intensiva e imersiva para alcançar a fluência avançada no **inglês** este ano.
+- 🎬 Fora do código, sou um grande cinéfilo. Gosto muito de todos os tipos de filmes e sou fã do trabalho de diretores como Christopher Nolan e Damien Chazelle.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -25,6 +29,7 @@ Sou um desenvolvedor focado em criar aplicações web modernas, eficientes e com
 
 Aqui estão alguns dos projetos práticos que desenvolvi recentemente para consolidar meus conhecimentos:
 
+- 📃 **[Portfólio](https://github.com/jeancarloslima/portfolio-jean-carlos-lima)**: Meu portfólio com meus projetos mais recentes
 - 🎬 **[Movie of the Day](https://github.com/jeancarloslima/movie-of-the-day)**: Uma aplicação SPA com React Router e Tailwind CSS que sugere e cataloga filmes.
 - 📊 **[Dashboard Financeiro](https://github.com/jeancarloslima/dashboard-financeiro)**: Interface web robusta para controle financeiro pessoal, com foco em componentização de dados.
 - 🍅 **[Método Pomodoro](https://github.com/jeancarloslima/metodo-pomorodo)**: Timer de produtividade que utiliza localStorage e Context API para gerenciamento de estado.
