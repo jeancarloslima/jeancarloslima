@@ -4,7 +4,7 @@ Sou um desenvolvedor focado em criar aplicações web modernas, eficientes e com
 
 ## 📝 Resumo
 
-Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC Itaquaquecetuba e em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba. Atualmente, curso bacharelado em Engenharia de Software pela INFNET (3° semestre de 8). Sou movido pela paixão por tecnologia, com foco especial no desenvolvimento Front-end, construindo desde interfaces dinâmicas até aplicações no modelo SaaS.
+Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC Itaquaquecetuba e em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba. Atualmente, curso bacharelado em Engenharia de Software pela INFNET (4° semestre de 8). Sou movido pela paixão por tecnologia, com foco especial no desenvolvimento Front-end, construindo desde interfaces dinâmicas até aplicações no modelo SaaS.
 
 ## 👨‍💻 Um pouco sobre mim
 
