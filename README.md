@@ -4,12 +4,12 @@ Sou um desenvolvedor focado em criar aplicações web modernas, eficientes e com
 
 ## 📝 Resumo
 
-Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC Itaquaquecetuba e em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba. Atualmente, curso bacharelado em Engenharia de Software pela INFNET (4° semestre de 8). Sou movido pela paixão por tecnologia, com foco especial no desenvolvimento Front-end, construindo desde interfaces dinâmicas até aplicações no modelo SaaS.
+Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC Itaquaquecetuba e tecnólogo em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba. Atualmente, curso bacharelado em Engenharia de Software pela INFNET (4° semestre de 8). Sou movido pela paixão por tecnologia, com foco especial no desenvolvimento Front-end.
 
 ## 👨‍💻 Um pouco sobre mim
 
-- 🎓 Graduando em **Engenharia de Software** (4° Semestre de 8) e desenvolvendo um sistema SaaS para uma clínica de estética e bem-estar como projeto de extensão universitária.
-- 🚀 Construindo aplicações robustas com o ecossistema **React**, gerenciamento de estado (**Zustand**, **Redux**) e bibliotecas de UI (**shadcn/ui**, **Material UI**).
+- 🎓 Graduando em **Engenharia de Software** (4° Semestre de 8).
+- 🚀 Construindo aplicações robustas com o ecossistema **React**, estudando **Typescript**, gerenciamento de estado (**Zustand**, **Redux**) e bibliotecas de UI (**shadcn/ui**, **Material UI**).
 - 📡 Consumindo APIs e gerenciando requisições assíncronas de forma eficiente com **Axios**, **TanStack Query** e **Apollo GraphQL**.
 - 🧪 Focado na qualidade do software, explorando testes automatizados com **Vitest**, **Cypress** e **React Testing Library (RTL)**.
 - 🇬🇧 Em uma rotina imersiva de estudos de **inglês**, buscando a fluência avançada.
@@ -32,6 +32,7 @@ Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de S
 ## 🚀 Projetos em Destaque
 
 - 📃 **[Portfólio](https://github.com/jeancarloslima/portfolio-jean-carlos-lima)**: Meu portfólio com meus projetos mais recentes.
+- 🔒 **[Formulário de Login]([https://github.com/jeancarloslima/Pesquisador-de-paises-e-previsao-do-tempo](https://github.com/jeancarloslima/formulario-de-login))**: Um formulário de login e cadastro com uma página de perfil. Com foco na prática do Typescript, React Hook Form e Zod. 
 - 🌍 **[Pesquisador de País e Clima](https://github.com/jeancarloslima/Pesquisador-de-paises-e-previsao-do-tempo)**: Componente React com integração de dados usando Axios, TanStack Query e Apollo GraphQL.
 - ⚙️ **[Painel de Configurações](https://github.com/jeancarloslima/painel-configuracoes)**: Um painel de configurações genérico acessível. Com foco na prática do Radix UI.
 - 🎬 **[Avaliador de Filmes](https://github.com/jeancarloslima/Avaliador-de-filmes)**: Um projeto React de avaliação de filmes para um recomendador de filmes. Onde o usuário recebe uma série de filmes e avalia para definir o gosto inicial dele. Foco na aplicação do React Aria Components com Tailwind. 
