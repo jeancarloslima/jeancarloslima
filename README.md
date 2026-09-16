@@ -32,7 +32,7 @@ Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de S
 ## 🚀 Projetos em Destaque
 
 - 📃 **[Portfólio](https://github.com/jeancarloslima/portfolio-jean-carlos-lima)**: Meu portfólio com meus projetos mais recentes.
-- 🔒 **[Formulário de Login](https://github.com/jeancarloslima/Pesquisador-de-paises-e-previsao-do-tempo](https://github.com/jeancarloslima/formulario-de-login))**: Um formulário de login e cadastro com uma página de perfil. Com foco na prática do Typescript, React Hook Form e Zod. 
+- 🔒 **[Formulário de Login](https://github.com/jeancarloslima/formulario-de-login)**: Um formulário de login e cadastro com uma página de perfil. Com foco na prática do Typescript, React Hook Form e Zod. 
 - 🌍 **[Pesquisador de País e Clima](https://github.com/jeancarloslima/Pesquisador-de-paises-e-previsao-do-tempo)**: Componente React com integração de dados usando Axios, TanStack Query e Apollo GraphQL.
 - ⚙️ **[Painel de Configurações](https://github.com/jeancarloslima/painel-configuracoes)**: Um painel de configurações genérico acessível. Com foco na prática do Radix UI.
 - 🎬 **[Avaliador de Filmes](https://github.com/jeancarloslima/Avaliador-de-filmes)**: Um projeto React de avaliação de filmes para um recomendador de filmes. Onde o usuário recebe uma série de filmes e avalia para definir o gosto inicial dele. Foco na aplicação do React Aria Components com Tailwind. 
