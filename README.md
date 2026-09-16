@@ -29,15 +29,14 @@ Tenho 21 anos e sou formado no curso técnico de Análise e Desenvolvimento de S
   <img src="https://img.shields.io/badge/-cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 </p>
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Recentes
 
 - 📃 **[Portfólio](https://github.com/jeancarloslima/portfolio-jean-carlos-lima)**: Meu portfólio com meus projetos mais recentes.
+- 🎬 **[Catálogo de Filmes](https://github.com/jeancarloslima/catalogo-de-filmes)**: Um catálogo de filmes famosos, com informações sobre eles. Com foco na prática de Framer Motion.
 - 🔒 **[Formulário de Login](https://github.com/jeancarloslima/formulario-de-login)**: Um formulário de login e cadastro com uma página de perfil. Com foco na prática do Typescript, React Hook Form e Zod. 
 - 🌍 **[Pesquisador de País e Clima](https://github.com/jeancarloslima/Pesquisador-de-paises-e-previsao-do-tempo)**: Componente React com integração de dados usando Axios, TanStack Query e Apollo GraphQL.
 - ⚙️ **[Painel de Configurações](https://github.com/jeancarloslima/painel-configuracoes)**: Um painel de configurações genérico acessível. Com foco na prática do Radix UI.
 - 🎬 **[Avaliador de Filmes](https://github.com/jeancarloslima/Avaliador-de-filmes)**: Um projeto React de avaliação de filmes para um recomendador de filmes. Onde o usuário recebe uma série de filmes e avalia para definir o gosto inicial dele. Foco na aplicação do React Aria Components com Tailwind. 
-- 📚 **[Plataforma de Cursos](https://github.com/jeancarloslima/plataforma-de-cursos)**: Um site de uma plataforma de cursos de tecnologia. Foco na aplicação do Material UI. 
-- 🛎️ **[Formulário de Reservas](https://github.com/jeancarloslima/sistema-de-votacao)**: Meu portfólio com meus projetos mais recentes.
 
 ## 📈 Minhas Estatísticas
 
